@@ -197,6 +197,16 @@ Recommendation: Proceed with the purchase, but with a strategy to improve custom
  I would like to express my special thanks of gratitude to my Mentor, "Ms. Swetha Sutar" for the guidance and support by giving some reference articles by which I was very much succesful in understanding and completing my project.
 
 
+## USING GRADIENT DESCENT AS THE REGRESSION MODEL
+===================================================
+https://project-5-rtu49wsjsuwlcu8oteeab2.streamlit.app/
+
+##USING RANDOM FOREST AS THE REGRESSION MODEL
+====================================================
+https://sujanakumari-telecommunication-analysis----project-5-app-9q54fy.streamlit.app/
+
+
+
 
 
 
